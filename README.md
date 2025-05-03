@@ -36,6 +36,7 @@ import matplotlib.pyplot as plt
 sns.histplot(df["fare"], bins=50)
 
 ![Histogram for the data](histogram.png)
+
 #is there a relationship between fares and distances?
 
 #use scatter to show the relationship
